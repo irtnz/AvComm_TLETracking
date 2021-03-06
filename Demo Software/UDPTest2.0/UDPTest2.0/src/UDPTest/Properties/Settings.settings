@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UDPTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="acuIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.1</Value>
+    </Setting>
+    <Setting Name="acuPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6767</Value>
+    </Setting>
+    <Setting Name="localPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6767</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
